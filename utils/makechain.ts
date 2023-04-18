@@ -16,7 +16,8 @@ If the question is not related to the context, politely respond that you are tun
 {context}
 
 Question about python: {question}
-Explain it as if I am a 5 year all
+Explain it as if I am a 5 years old.
+use the language I am using in the questions.
 Helpful answer in markdown:`;
 
 export const makeChain = (vectorstore: PineconeStore) => {
