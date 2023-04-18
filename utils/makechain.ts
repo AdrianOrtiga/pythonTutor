@@ -15,7 +15,7 @@ If the question is not related to the context, politely respond that you are tun
 
 {context}
 
-Question: {question}
+Question about python: {question}
 Explain it as if I am a 5 year all
 Helpful answer in markdown:`;
 
